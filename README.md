@@ -5,7 +5,7 @@ En el siguiente repositorio se encuentra el  problema de crear un modelo para pr
 
 Elaborado por:
 
-- Jose Julian Aguirre Ramire-joaguirrer@unal.edu.co
-- Juan Jose Monsalve Patino-jumonsalvep@unal.edu.co
-- Santiago Mejia Carmona-sanmejiacar@unal.edu.co
-- Pamela Escobar Palacio-paescobarp@unal.edu.co
+- Jose Julian Aguirre Ramirez - joaguirrer@unal.edu.co
+- Juan Jose Monsalve Patino - jumonsalvep@unal.edu.co
+- Santiago Mejia Carmona - sanmejiacar@unal.edu.co
+- Pamela Escobar Palacio - paescobarp@unal.edu.co
